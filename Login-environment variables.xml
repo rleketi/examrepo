@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>AgentName</Name>
+		<Value><![CDATA[refilwe]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Password</Name>
+		<Value><![CDATA[mercury]]></Value>
+	</Variable>
+</Environment>
